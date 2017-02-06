@@ -7,7 +7,7 @@
       <ul>
         {{ header_menu('main-nav') }}
         <li class="main-nav-item">
-          <a href="https://github.com/{{ config.github }}" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+          <a href="https://github.com/{{ config.github }}" target="_blank" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
         </li>
       </ul>
     </nav>
@@ -19,9 +19,9 @@
         {% endfor %}
       </select>
     </div>
-    <div id="search-btn-wrap" class="main-nav-item search-btn-wrap">
+    <!-- <div id="search-btn-wrap" class="main-nav-item search-btn-wrap">
       <a id="search-btn" class="main-nav-link st-search-launcher search-btn"><i class="fa fa-search"></i></a>
-    </div>
+    </div> -->
     <a id="mobile-nav-toggle" class="mobile-nav-toggle">
       <span class="mobile-nav-toggle-bar"></span>
       <span class="mobile-nav-toggle-bar"></span>
