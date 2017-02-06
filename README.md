@@ -7,7 +7,7 @@ Installation Coding Guidelines For Front-End Developers.
 Install dependencies:
 
 ``` bash
-$ git clone https://github.com/o2team/guide.git
+$ git clone git@github.com:lidianhao123/guide.git
 $ cd guide
 $ npm install
 ```
