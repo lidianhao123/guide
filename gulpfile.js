@@ -30,17 +30,18 @@ var dirs = {
 gulp.task('useref', ['hexo'], function(){
 
   return gulp.src('public/**/*.html')
-    .pipe($.useref({
-        searchPath:'public',
-        transformPath: function(filePath) {
-            return filePath.replace(dirs.public + cfg.root, dirs.public + '/');
-        }
-    }))
-    .pipe($.if('*.css', $.postcss([
-      cssnano()
-    ])))
-    .pipe($.if('*.css', $.minifyCss()))
-    .pipe($.if('*.js', $.uglify()))
+    // 优化gulp执行效率 gulp-useref 暂时屏蔽
+    // .pipe($.useref({
+    //     searchPath:'public',
+    //     transformPath: function(filePath) {
+    //         return filePath.replace('//','/').replace(dirs.public + cfg.root, dirs.public + '/');
+    //     }
+    // }))
+    // .pipe($.if('*.css', $.postcss([
+    //   cssnano()
+    // ])))
+    // .pipe($.if('*.css', $.minifyCss()))
+    // .pipe($.if('*.js', $.uglify()))
     .pipe($.if('*.html', $.htmlMinifier(htmlMinifierOptions)))
     .pipe(gulp.dest('public'));
 });
@@ -89,12 +90,13 @@ gulp.task("rev:replace", ["rev:scripts"], function(){
         .pipe($.revReplace({
             manifest: manifest,
             modifyReved:function(fileName){
-                if(fileName.indexOf('/dist') > -1){
-                    //special files proccessed by gulp-useref
-                    fileName = cfg.root + 'assets/' + fileName;
-                }else {
+                // if(fileName.indexOf('/dist') > -1){
+                //     console.info("fileName = ",fileName)
+                //     //special files proccessed by gulp-useref
+                //     fileName = cfg.root + 'assets/' + fileName;
+                // }else {
                     fileName = 'assets/' + fileName; 
-                }
+                // }
                 return fileName;
             }
         }))
