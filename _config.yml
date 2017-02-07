@@ -4,7 +4,7 @@ description: "Best Coding Guidelines For Front-End Developer."
 author: 腾讯大燕网
 language: zh-cn
 timezone: UTC
-url: https://lidianhao123.github.io/guide/index.html
+url: https://lidianhao123.github.io/guide
 root: /guide/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
