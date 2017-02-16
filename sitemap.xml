@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lidianhao123.github.io/guide/docs/react.html</loc>
+    
+    <lastmod>2017-02-16T10:26:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lidianhao123.github.io/guide/guide/news/2017/02/06/Release/</loc>
     
     <lastmod>2017-02-06T07:07:20.000Z</lastmod>
@@ -9,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/docs/common/markdown.html</loc>
+    <loc>https://lidianhao123.github.io/guide/docs/html/template.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
@@ -17,13 +24,6 @@
   
   <url>
     <loc>https://lidianhao123.github.io/guide/plugins/index.html</loc>
-    
-    <lastmod>2017-02-06T03:47:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lidianhao123.github.io/guide/index.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
@@ -107,6 +107,13 @@
   </url>
   
   <url>
+    <loc>https://lidianhao123.github.io/guide/docs/image/format.html</loc>
+    
+    <lastmod>2017-02-06T03:47:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lidianhao123.github.io/guide/themes/index.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
@@ -114,14 +121,7 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/docs/html/webapp.html</loc>
-    
-    <lastmod>2017-02-06T03:47:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lidianhao123.github.io/guide/docs/html/template.html</loc>
+    <loc>https://lidianhao123.github.io/guide/index.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
@@ -212,7 +212,14 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/docs/image/format.html</loc>
+    <loc>https://lidianhao123.github.io/guide/docs/common/markdown.html</loc>
+    
+    <lastmod>2017-02-06T03:47:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lidianhao123.github.io/guide/docs/html/webapp.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
