@@ -45,4 +45,6 @@ sidebar:
     name_htmlcss: HTML/CSS 命名
     name_image: 图片命名
     name_class: ClassName 命名
+    react: React规范
+    react_: React 规范
 

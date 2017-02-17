@@ -8,4 +8,4 @@ title: 命名规范
 * 项目文件夹：projectname
 * 样式文件夹：css
 * 脚本文件夹：js
-* 样式类图片文件夹：img
+* 样式类图片文件夹：images

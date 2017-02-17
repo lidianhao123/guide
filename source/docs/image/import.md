@@ -27,6 +27,9 @@ HTML 中图片引入不需添加 width、height 属性，alt 属性应该写上
 <img src="" width="" height="" >
 ```
 
+*备注*
+>如果是上传到CMS系统的PC或者H5专题建议添加 width、height 属性，方便编辑获知图片素材尺寸
+
 CSS 中图片引入不需要引号
 
 ```css
