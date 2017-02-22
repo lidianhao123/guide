@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lidianhao123.github.io/guide/guide/news/2017/02/06/Release/</loc>
+    
+    <lastmod>2017-02-22T09:29:07.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lidianhao123.github.io/guide/docs/react.html</loc>
     
     <lastmod>2017-02-17T06:42:27.000Z</lastmod>
@@ -51,28 +58,21 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/guide/news/2017/02/06/Release/</loc>
-    
-    <lastmod>2017-02-06T07:07:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lidianhao123.github.io/guide/docs/html/code.html</loc>
+    <loc>https://lidianhao123.github.io/guide/docs/html/template.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/docs/name/image.html</loc>
+    <loc>https://lidianhao123.github.io/guide/docs/issues.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
+    <loc>https://lidianhao123.github.io/guide/plugins/index.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
@@ -100,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/index.html</loc>
+    <loc>https://lidianhao123.github.io/guide/docs/name/jdc_fd_guide_name.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
@@ -121,7 +121,7 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/docs/html/template.html</loc>
+    <loc>https://lidianhao123.github.io/guide/index.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
@@ -142,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/docs/issues.html</loc>
+    <loc>https://lidianhao123.github.io/guide/docs/html/code.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://lidianhao123.github.io/guide/plugins/index.html</loc>
+    <loc>https://lidianhao123.github.io/guide/docs/name/image.html</loc>
     
     <lastmod>2017-02-06T03:47:02.000Z</lastmod>
     
